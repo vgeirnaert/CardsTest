@@ -18,7 +18,8 @@
     	android:paddingRight="@dimen/activity_horizontal_margin"
     	android:paddingTop="@dimen/activity_horizontal_margin"
     	android:paddingBottom="@dimen/activity_horizontal_margin"
-    	android:fadingEdge="none" >
+    	android:fadingEdge="none"
+    	android:cacheColorHint="#00000000" >
     </ListView>
 
 </LinearLayout>
